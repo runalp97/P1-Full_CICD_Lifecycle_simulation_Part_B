@@ -87,3 +87,40 @@ ________________________________________
 •	Notify the team on Slack
 
 **📸 Screenshots:**
+
+ 🔵 Installed AWS, Docker, Jenkins on a new EC2:
+
+  <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/b9898dd0-a4af-435c-a259-b64590d847cb" />
+
+ 🔵 Jenkins pipeline sucess:
+
+  <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/c1e7a9f4-0e90-49a3-a376-227ff9645bb0" />
+
+ 🔵 ECR Image Pushed:
+ 
+ <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/89c8f6a4-a10f-4756-b3c2-4380c26e25b8" />
+
+ 🔵 EC2 Deployment:
+
+ <img width="941" height="456" alt="image" src="https://github.com/user-attachments/assets/29ae6a2b-9e38-4de9-8b45-974ad97189b3" />
+
+ 🔵 Application Running via EC2 public IP and ALB dns:
+
+ <img width="944" height="230" alt="image" src="https://github.com/user-attachments/assets/e594374e-b759-41dd-9504-8f46b7f7fbea" />
+
+ <img width="944" height="238" alt="image" src="https://github.com/user-attachments/assets/4da5de90-9fd0-403f-b050-cc72bd683fc3" />
+
+🔵**Conclusion**
+Part B completes the final deployment stage of the CI/CD pipeline. 
+This includes building and pushing the Docker image to ECR, executing the Jenkins pipeline, and deploying the application to an EC2 instance using Ansible.
+
+Together, Part A and Part B demonstrate a complete end-to-end DevOps workflow — from planning to infrastructure provisioning to final production deployment.
+
+
+
+
+ 
+
+
+
+
